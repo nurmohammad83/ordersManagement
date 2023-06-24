@@ -1,0 +1,26 @@
+[
+    {  "id":1,
+     "customerName":"Ali",
+     "deliveryType":"Regular"
+ },
+    {  "id":2,
+     "customerName":"Nur",
+     "deliveryType":"Express"
+ },
+    { 
+     "id":3,
+     "customerName":"JInna",
+     "deliveryType":"Regular"
+ },
+    { 
+     "id":4,
+     "customerName":"Sazib",
+     "deliveryType":"Express"
+ },
+    { 
+     "id":5,
+     "customerName":"Mahli",
+     "deliveryType":"Regular"
+ }
+ ]
+ 
